@@ -1,6 +1,6 @@
-﻿using System;
-using System.Text.Json;
+﻿using System.Text.Json;
 using System.IO;
+using System;
 
 public class DataMahasiswa1302220112
 {
@@ -23,9 +23,9 @@ public class DataMahasiswa1302220112
     public Course course[]
 
     public DataMahasiswa1302220112()
-    {
-
-    }
+	{
+		
+	}
     public void ReadJSON()
     {
         string filePath = "jurnal7_1_1302220112"
@@ -39,14 +39,5 @@ public class DataMahasiswa1302220112
         Console.WriteLine($"Mengambil mata kuliah:");
         Console.WriteLine(dataMahasiswa.course[0]);
         Console.WriteLine(dataMahasiswa.course[1]);
-    }
-}
-
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        DataMahasiswa1302220112 dataMahasiswa = new DataMahasiswa1302220112();
-        dataMahasiswa.ReadJSON();
     }
 }

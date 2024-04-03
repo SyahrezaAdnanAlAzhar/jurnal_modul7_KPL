@@ -1,0 +1,5 @@
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\JURNAL MODUL 7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\JURNAL MODUL 7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.AssemblyInfoInputs.cache
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\JURNAL MODUL 7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.AssemblyInfo.cs
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\JURNAL MODUL 7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.csproj.CoreCompileInputs.cache
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\JURNAL MODUL 7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.sourcelink.json
