@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+	"firstName": "Syahreza Adnan",
+	"lastName": "Al Azhar",
+	"gender": "male",
+	"age": 20,
+	"nim": "1302223041"
+    },
+    {
+       "firstName": "Ricky",
+       "lastName": "Renaldi",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223051"
+    },
+    {
+       "firstName": "Arvin",
+       "lastName": "Indra",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223136"
+    },
+    {
+       "firstName": "Ahmad",
+       "lastName": "Akbar",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220126"
+    },
+    {
+       "firstName": "Syauqi",
+       "lastName": "Dhiya Ulhaq",
+       "gender": "male",
+       "age": 21,
+       "nim": "1302220112"
+    }
+  ]
+}

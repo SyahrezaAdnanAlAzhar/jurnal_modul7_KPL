@@ -1,0 +1,15 @@
+{
+   "firstName": "Ahmad",
+   "lastName": "Akbar",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Taman Pondok Jati",
+       "city": "Sidoarjo",
+       "state": "East Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2E4", "name": "Basis Data" }
+   ]
+}
