@@ -1,0 +1,16 @@
+{
+   "firstName": "Arvin",
+   "lastName": "Indra",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jl. Telekomunikasi",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX1", "name": "Pemrograman Berorientasi Objek" },
+       { "code": "CRI2XX1", "name": "Basis Data" }
+   ]
+}
