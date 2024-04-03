@@ -1,0 +1,15 @@
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.AssemblyInfoInputs.cache
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.AssemblyInfo.cs
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.csproj.CoreCompileInputs.cache
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.sourcelink.json
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\bin\Debug\net8.0\modul7_kelompok_2.exe
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\bin\Debug\net8.0\modul7_kelompok_2.deps.json
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\bin\Debug\net8.0\modul7_kelompok_2.runtimeconfig.json
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\bin\Debug\net8.0\modul7_kelompok_2.dll
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\bin\Debug\net8.0\modul7_kelompok_2.pdb
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.dll
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\refint\modul7_kelompok_2.dll
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.pdb
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\modul7_kelompok_2.genruntimeconfig.cache
+C:\Reza\TEL U\Code\C#\Jurnal7\jurnal_modul7_KPL\modul7_kelompok_2\obj\Debug\net8.0\ref\modul7_kelompok_2.dll
