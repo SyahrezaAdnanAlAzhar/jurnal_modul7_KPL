@@ -1,0 +1,45 @@
+{
+  "firstName": "Ricky",
+  "lastName": "Renaldi",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Pratista",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CRJ2G3",
+      "name": "Dasar Jaringan Komputer"
+    },
+    {
+      "code": "CII3B4",
+      "name": "Pemrograman Beroriantasi Objek"
+    },
+    {
+      "code": "CRJ2H3",
+      "name": "Pengalaman Pengguna (UX)"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "Proyek Tingkat II"
+    },
+    {
+      "code": "CRI3J2",
+      "name": "BAHASA INGGRIS : WRITING AND SPEAKING"
+    },
+    {
+      "code": "UWJXF2",
+      "name": "Kewirausahaan"
+    }
+  ]
+}
