@@ -28,7 +28,6 @@ mono_crash.*
 Generated\ Files/
 
 # MSTest test Results
-[Bb]uild[Ll]og.*
 
 # NUnit
 *.VisualState.xml
@@ -36,17 +35,12 @@ TestResult.xml
 nunit-*.xml
 
 # Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
 dlldata.c
 
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
 # .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
