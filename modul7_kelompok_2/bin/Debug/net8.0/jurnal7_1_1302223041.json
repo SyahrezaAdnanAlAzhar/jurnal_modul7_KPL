@@ -1,0 +1,19 @@
+{
+   "firstName": "Syahreza Adnan",
+   "lastName": "Al Azhar",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Adhyaksa",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+	{ "code": "CRI2C4", "name": "KONSTRUKSI PERANGKAT LUNAK" },
+	{ "code": "CRJ2H3", "name": "PENGALAMAN PENGGUNA" },
+	{ "code": "CRI2E4", "name": "BASIS DATA" },
+	{ "code": "CRI2F2", "name": "PROYEK TINGKAT II" },
+	{ "code": "CII3B4", "name": "PEMROGRAMAN BERORIENTASI OBJEK" },
+	{ "code": "CRJ2G3", "name": "DASAR JARINGAN KOMPUTER" }
+   ]
+}
